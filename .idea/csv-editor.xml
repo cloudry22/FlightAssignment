@@ -3,6 +3,41 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\data\passengers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q1_flights_per_month.csv\part-00000-e30df2e9-5e68-4241-9e1e-e8a9b122c241-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q2_top_100_frequent_flyers.csv\part-00000-bb94e5c8-6930-4bd9-ad58-dd1b5031f461-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q3_longest_non_uk_run.csv\part-00000-1a0fe9f2-fe65-423a-9ebd-6da338824e0d-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q4_flights_together.csv\part-00000-76795546-8892-4bb5-8bde-c138e0599bc4-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\output\q4_flights_together_by_range.csv\part-00000-31cb7e87-d7d4-489b-8c43-1d3a48452466-c000.csv">
           <value>
             <Attribute>
