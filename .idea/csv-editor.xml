@@ -24,7 +24,42 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\output\q2_top_100_frequent_flyers.csv\part-00000-c4dc5b60-ca4e-47c6-9a1d-bf09f98f2aaf-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\output\q3_longest_non_uk_run.csv\part-00000-1a0fe9f2-fe65-423a-9ebd-6da338824e0d-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q3_longest_non_uk_run.csv\part-00000-2c1bf58d-071c-4ad3-abf4-7823c5efee33-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q3_longest_non_uk_run.csv\part-00000-7fc5a670-ad95-4eb1-bcf2-0a93caf0009e-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q3_longest_non_uk_run.csv\part-00000-d68526aa-ae09-495e-8e0e-6d3d5f7a3220-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\q3_longest_non_uk_run.csv\part-00000-e129bfb4-eb12-4c97-9e8b-6babf2d6aa57-c000.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
